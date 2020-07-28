@@ -32,6 +32,20 @@ nav .right  a {
 	font-size: 1.5rem;
 }
 
+.main form input {
+	padding: 10px;
+	border-radius: 5px;
+}
+
+.main form button {
+	padding: 10px;
+	border-radius: 5px;
+}
+
+.main form button:hover {
+	cursor: pointer;
+}
+
 footer {
 	position: absolute;
 	left: 0;
